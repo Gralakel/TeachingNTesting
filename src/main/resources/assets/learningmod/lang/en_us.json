@@ -1,8 +1,11 @@
 {
   "item.learningmod.lapoferrite": "Lapoferrite Alloy",
   "item.learningmod.infused_lapis": "Infused Lapis",
+  "item.learningmod.raw_infused_lapis": "Raw Infused Lapis",
 
   "block.learningmod.lapoferrite_block": "Lapoferrite Block",
+  "block.learningmod.infused_lapis_ore": "Infused Lapis Ore",
+  "block.learningmod.infused_lapis_deepslate_ore": "Deepslate Infused Lapis Ore",
 
   "creativetab.learningmod_tab": "Learning mod"
 }

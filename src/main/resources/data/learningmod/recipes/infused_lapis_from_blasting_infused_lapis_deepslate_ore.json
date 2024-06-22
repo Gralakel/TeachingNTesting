@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 5,
+  "group": "infused_lapis",
+  "ingredient": {
+    "item": "learningmod:infused_lapis_deepslate_ore"
+  },
+  "result": "learningmod:infused_lapis",
+  "count": 3
+}

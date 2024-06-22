@@ -21,7 +21,10 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.INFUSEDLAPIS.get());
                         output.accept(ModItems.LAPOFERRITE.get());
+                        output.accept(ModItems.RAWINFUSEDLAPIS.get());
                         output.accept(ModBlocks.LAPOFERRITE_BLOCK.get());
+                        output.accept(ModBlocks.INFUSED_LAPIS_ORE.get());
+                        output.accept(ModBlocks.INFUSED_LAPIS_DEEPSLATE_ORE.get());
                     })
                     .build());
 

@@ -13,7 +13,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> LAPOFERRITE = ITEMS.register("lapoferrite", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> INFUSEDLAPIS = ITEMS.register("infused_lapis", () -> new Item(new Item.Properties()));
-
+    public static final RegistryObject<Item> RAWINFUSEDLAPIS = ITEMS.register("raw_infused_lapis", () -> new Item(new Item.Properties()));
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
